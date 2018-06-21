@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <manifest xmlns:a='http://schemas.android.com/apk/res/android' package='com.sreeharis.ota' a:versionCode='0' a:versionName='0'>
-	<application a:label='Updates'>
+	<application a:label='Updates' a:icon='@drawable/ic_launcher_settings'>
 		<activity a:name='.Updater'>
 			<intent-filter>
 				<!--<category a:name='android.intent.category.LAUNCHER'/>-->

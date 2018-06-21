@@ -3,7 +3,7 @@
 	<application a:label='Updates'>
 		<activity a:name='.Updater'>
 			<intent-filter>
-				<category a:name='android.intent.category.LAUNCHER'/>
+				<!--<category a:name='android.intent.category.LAUNCHER'/>-->
 				<action a:name='android.intent.action.MAIN'/>
 			</intent-filter>
 		</activity>

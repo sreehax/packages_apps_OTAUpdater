@@ -21,6 +21,6 @@ public final class Updater extends Activity {
 				Intent LaunchIntent = pm.getLaunchIntentForPackage("com.android.settings");
 				startActivity(LaunchIntent);
 			}
-		}
+		});
 	}
 }

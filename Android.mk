@@ -5,7 +5,6 @@ LOCAL_USE_AAPT2 := true
 LOCAL_MODULE_TAGS := optional
 LOCAL_PRIVILEGED_MODULE := true
 LOCAL_SRC_FILES := $(call all-java-files-under, src)
-LOCAL_STATIC_ANDROID_LIBRARIES := android-support-v7
 LOCAL_PACKAGE_NAME := OTAUpdater
 LOCAL_CERTIFICATE := platform
 LOCAL_PRIVILEGED_MODULE := true

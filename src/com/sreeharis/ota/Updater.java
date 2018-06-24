@@ -1,8 +1,7 @@
 package com.sreeharis.ota;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
-public final class Updater extends AppCompatActivity {
+import android.app.Activity;
+public final class Updater extends Activity {
 	@Override
 	protected void onCreate(Bundle activityState) {
 		super.onCreate(activityState);
